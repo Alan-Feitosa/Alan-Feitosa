@@ -6,7 +6,9 @@
 
 ##
 
-Portfolio: https://portfolio-alanfeitosa.vercel.app/
+<div>
+    <a href="https://portfolio-alanfeitosa.vercel.app/" target="_blank"><p>My Portfolio</p></a>
+</div>
 
 ##
 
