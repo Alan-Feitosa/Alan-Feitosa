@@ -6,12 +6,6 @@
 
 ##
 
-<div>
-    <a href="https://portfolio-alanfeitosa.vercel.app/" target="_blank"><p>My Portfolio</p></a>
-</div>
-
-##
-
 extensive knowledge in:
 ⬇⬇⬇⬇⬇⬇⬇⬇
 <div style="display: inline_block"><br>
