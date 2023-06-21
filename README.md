@@ -1,6 +1,6 @@
 - 👋 Hello my name is Alan Gabriel and welcome to my profile
 
-- 🌱 Studying React, Vue and MongoDB
+- 🌱 Studying ReactJS, VueJS, MongoDB and NodeJS
 - 👯 Currently working on developing a website and completing projects on the side!
 - 💬 Always looking for ways to improve learning and always looking for new knowledge in the area of ​​technology
 
