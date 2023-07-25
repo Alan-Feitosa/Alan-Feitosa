@@ -1,4 +1,4 @@
-- 👋 Hello my name is Alan Gabriel and I am a full stack programmer
+- 👋 Hello my name is Alan Gabriel and I am a full stack dev
 - 🌱 Studying <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> , <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />, <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /> and <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
 - 👯 Currently working on developing a website and completing projects on the side!
 - 💬 Always looking for ways to improve learning and always looking for new knowledge in the area of ​​technology
