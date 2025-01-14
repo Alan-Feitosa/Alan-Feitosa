@@ -1,25 +1,26 @@
-# 👋 Hello! I'm Alan Feitosa and this is my portfolio => [<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />](https://portfolio-xi-seven-42.vercel.app/)
+# 👋 Hello! I'm Alan Feitosa.
 
-I'm a passionate developer with a strong focus on web development, but I'm also keen on hardware development. Currently, I'm diving deep into **TypeScript**, **Android Development**, **ReactJS**, and **Docker**, and I'm enthusiastic about becoming a full-stack developer.
+[<img height="40" width="50" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />](https://alan-feitosa-portfolio.vercel.app/)
+
+I'm a JavaScript Developer passionate about web technologies, focusing on building scalable, efficient, and user-friendly applications. My main stack includes JavaScript, TypeScript, React, and Node.js, but I'm always exploring new tools and frameworks to enhance my skills.
 
 ## 🌱📖 Currently Learning
 
 - <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> **TypeScript**
-- <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> **Laravel**
 - <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> **ReactJS**
-- <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> **Docker**
+- <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> **NodeJS**
 
 ## 📚 SoftSkills
 
 I bring the following soft skills to every project:
 
-- 💡 **Creative Problem Solving**: Approaching challenges with innovative solutions.
-- 🤝 **Team Collaboration**: Working effectively with diverse teams.
-- 📊 **Analytical Thinking**: Analyzing data to make informed decisions.
-- 📅 **Time Management**: Prioritizing tasks to meet deadlines efficiently.
-- 🗣 **Effective Communication**: Clearly articulating ideas and feedback.
-- 🔄 **Adaptability**: Quickly adjusting to new technologies and methodologies.
-- 🎯 **Goal-Oriented**: Focused on achieving project objectives and delivering value.
+- 💡 **Creative Problem Solving**
+- 🤝 **Team Collaboration**
+- 📊 **Analytical Thinking**
+- 📅 **Time Management**
+- 🗣 **Effective Communication**
+- 🔄 **Adaptability**
+- 🎯 **Goal-Oriented**
 
 ## 🌐 Socials
 
